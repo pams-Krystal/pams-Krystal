@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pams-Krystal
+- 👋 Hi, I’m @oge
 - 👀 I’m interested in Html, css,Js
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on
